@@ -1,6 +1,9 @@
+package com.company;
 /**
  * Created by ml996 on 9/9/16.
  */
+
+
 import java.util.Scanner;
 import java.util.*;
 public class temp {
