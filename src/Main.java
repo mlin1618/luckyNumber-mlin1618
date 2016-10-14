@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 import java.util.*;
-public class temp {
+public class Main {
     public static class perfectRandom{
         public String name;
         public int r;
